@@ -1,0 +1,1202 @@
+[
+  {
+    "question_idx": 0,
+    "question": "A 21-year-old male presents to his primary care provider for fatigue. He reports that he graduated f",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Chikungunya.\n\n"
+  },
+  {
+    "question_idx": 1,
+    "question": "A 56-year-old man with a history of hypertension presents to his physician with progressive fatigue ",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Aldosterone excess.\n\nEx"
+  },
+  {
+    "question_idx": 2,
+    "question": "A 47-year-old woman seeks evaluation at your office because she has had postcoital vaginal bleeding ",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A. Clear cell adenocarcinoma"
+  },
+  {
+    "question_idx": 3,
+    "question": "A 36-year-old man undergoes open reduction and internal fixation of a left femur fracture sustained ",
+    "predicted": "C",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "C\n\nExplanation: The infecting"
+  },
+  {
+    "question_idx": 4,
+    "question": "A 59-year-old man is brought to the emergency department with a history of black, tarry stools but d",
+    "predicted": "C",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "C"
+  },
+  {
+    "question_idx": 5,
+    "question": "A 30-year-old man presents to his primary care physician with complaints of excessive fatigue and we",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Administer intravenous fludroc"
+  },
+  {
+    "question_idx": 6,
+    "question": "A 58-year-old white man with hypertension and type 2 diabetes mellitus comes to the physician becaus",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A\n\nExplanation: The patient'"
+  },
+  {
+    "question_idx": 7,
+    "question": "A 46-year-old woman comes to the physician because of severe muscle and joint pain for 5 months. The",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Amitriptyline.\n\n"
+  },
+  {
+    "question_idx": 8,
+    "question": "A 40-year-old businessman who was previously well is brought into the emergency department by his as",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A"
+  },
+  {
+    "question_idx": 9,
+    "question": "A 29-year-old man is brought to the emergency department by a concerned neighbor. The patient appear",
+    "predicted": "D",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 10,
+    "question": "A 26-year-old man with no significant past medical history presents to the ED following a motor vehi",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 11,
+    "question": "A 56-year-old man presents to the clinic complaining of subacute back pain for the past month. The p",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A"
+  },
+  {
+    "question_idx": 12,
+    "question": "A 22-year-old female college student is treated with metronidazole after presenting to student healt",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A"
+  },
+  {
+    "question_idx": 13,
+    "question": "A stillborn infant is delivered at 38 weeks' gestation to a 32-year-old woman. The mother had no pre",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Maternal oligohydr"
+  },
+  {
+    "question_idx": 14,
+    "question": "A 52-year-old man is brought to the emergency department for recurrent vomiting that began 5 hours a",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Systemic vascular resistance.\n\n"
+  },
+  {
+    "question_idx": 15,
+    "question": "A 14-year-old boy presents with right upper quadrant abdominal pain and is found on ultrasound to ha",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Spherocytes.\n\nEx"
+  },
+  {
+    "question_idx": 16,
+    "question": "A 34-year-old woman presents to the plastic surgery office 3 months following a rhinoplasty procedur",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) Post-operative swelling.\n"
+  },
+  {
+    "question_idx": 17,
+    "question": "Background:\nSome patients with severe asthma have frequent exacerbations associated with persistent ",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A\n\nExplanation: A type "
+  },
+  {
+    "question_idx": 18,
+    "question": "A 61-year-old man with schizophrenia in a locked inpatient psychiatry unit was observed making an un",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Tardive dyskinesia."
+  },
+  {
+    "question_idx": 19,
+    "question": "A 21-month-old boy is brought to the physician for a well-child examination. His mother noticed defo",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B. Reassurance and follow-up."
+  },
+  {
+    "question_idx": 20,
+    "question": "A 60-year-old female patient with a history of hypertension presents to an outpatient office for reg",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A\n\nExplanation: The side effect"
+  },
+  {
+    "question_idx": 21,
+    "question": "A 58-year-old male presents with an acutely elevated blood pressure of 220/140 mmHg. The patient com",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A) Decreased cardiac contractility."
+  },
+  {
+    "question_idx": 22,
+    "question": "A 63-year-old man is aiming to improve his health by eating a well balanced diet, walking daily, and",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D\n\nExplanation: Cilost"
+  },
+  {
+    "question_idx": 23,
+    "question": "A 69-year-old man presents to his primary care physician with hip and back pain. The patient states ",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B. Straight leg raise.\n\nEx"
+  },
+  {
+    "question_idx": 24,
+    "question": "A 35-year-old woman comes to the physician for genetic counseling prior to conception. Her younger b",
+    "predicted": "D",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "D) 50%\n\nExplan"
+  },
+  {
+    "question_idx": 25,
+    "question": "A 25-year-old man is brought to the emergency department after being found unconscious. He was at a ",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B) Dantrolene.\n\nEx"
+  },
+  {
+    "question_idx": 26,
+    "question": "A 47-year-old executive schedules an appointment his physician for a routine medical check-up. He cu",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A) An increase in right atrial pressure."
+  },
+  {
+    "question_idx": 27,
+    "question": "A 39-year-old African-American woman presents to the emergency room with hip pain. She has a past me",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) MRI of the hip.\n\n"
+  },
+  {
+    "question_idx": 28,
+    "question": "A 74-year-old man undergoes an open cholecystectomy. Surgery is performed under general anesthesia f",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C. Reintubate.\n\nEx"
+  },
+  {
+    "question_idx": 29,
+    "question": "A 38-year-old woman presents to her primary care physician for her yearly exam. Her only complaint i",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D\n\nExplanation: Peroxis"
+  },
+  {
+    "question_idx": 30,
+    "question": "A 21-year-old woman presents to the emergency room with right arm pain and limited range of motion. ",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C. Somatization disorder.\n\nEx"
+  },
+  {
+    "question_idx": 31,
+    "question": "A 12-year-old boy is brought to the emergency department for the evaluation of persistent bleeding f",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A) Anterior packing and topical antibiot"
+  },
+  {
+    "question_idx": 32,
+    "question": "A 33-year-old man presents to the infectious diseases clinic for follow-up. He was recently admitted",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Perform lumbar puncture, treat"
+  },
+  {
+    "question_idx": 33,
+    "question": "A 17-year-old woman presents to your office concerned that she has not had her menstrual period in 4",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Malar rash.\n\nEx"
+  },
+  {
+    "question_idx": 34,
+    "question": "A 3rd year resident in good standing with his residency training program would like to work more hou",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A\n\nExplanation: The ACG"
+  },
+  {
+    "question_idx": 35,
+    "question": "A 28-year-old woman comes to the obstetrics and gynecology clinic because she has been unsuccessfull",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A\n\nExplanation: The most likely"
+  },
+  {
+    "question_idx": 36,
+    "question": "A 68-year-old man presents to the emergency department with confusion. The patient lives in a nursin",
+    "predicted": "C",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "C) IV fluids.\n\nExplan"
+  },
+  {
+    "question_idx": 37,
+    "question": "A one-week-old, full-term infant born by uncomplicated vaginal delivery is brought to a pediatrician",
+    "predicted": "C",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "C) Switch from breast milk to formula.\n"
+  },
+  {
+    "question_idx": 38,
+    "question": "A 45-year-old woman presents to the physician with a history of headache, palpitations, and episodic",
+    "predicted": "C",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "C) Multiple endocrine neoplas"
+  },
+  {
+    "question_idx": 39,
+    "question": "In a study to determine the risk factors for myocardial infarction (MI) at a young age (age < 30 yea",
+    "predicted": "D",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 40,
+    "question": "A 26-year-old woman is brought to the emergency department 20 minutes after being involved in a high",
+    "predicted": "B",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "B) Traumatic bronchial rupt"
+  },
+  {
+    "question_idx": 41,
+    "question": "A 66-year-old male with a history of myocardial infarction presents to your primary care office with",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Increase in capillary pressure."
+  },
+  {
+    "question_idx": 42,
+    "question": "A 32-year-old woman presents to the emergency department with complaints of a headache. The last men",
+    "predicted": "C",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "C) 47XYY\n\nEx"
+  },
+  {
+    "question_idx": 43,
+    "question": "The Kozak sequence for the Beta-globin gene has a known mutation which decreases, though does not ab",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C. Microcytic red blood cells."
+  },
+  {
+    "question_idx": 44,
+    "question": "A gunshot victim is brought to the Emergency Department and appears to be in shock. You note a penet",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A\n\nExplanation (for those who"
+  },
+  {
+    "question_idx": 45,
+    "question": "A 51-year-old woman presents to her primary care physician complaining of months of dry mouth and dr",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 46,
+    "question": "A 35-year-old woman comes to the physician because of intermittent episodes of heart palpitations fo",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A\n\nExplanation: The patient'"
+  },
+  {
+    "question_idx": 47,
+    "question": "A medical student decides to join an immunology research center, which specifically works on capsula",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 48,
+    "question": "A 45-year-old male with a history of diabetes and poorly controlled hypertension presents to his pri",
+    "predicted": "D",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 49,
+    "question": "A 42-year-old man presents to his primary care physician for a follow-up visit. He has type 1 diabet",
+    "predicted": "C",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "C\n\nExplanation: The patient'"
+  },
+  {
+    "question_idx": 50,
+    "question": "A 64-year-old man with coronary artery disease and hypertension comes to the physician for a follow-",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Hyperplasia of juxtag"
+  },
+  {
+    "question_idx": 51,
+    "question": "A 29-year-old G1P0 woman is giving birth at 38 weeks gestation to a  boy via vaginal delivery. As so",
+    "predicted": "D",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation: The infant"
+  },
+  {
+    "question_idx": 52,
+    "question": "A 67-year-woman with non-Hodgkin lymphoma comes to the physician because of progressively increasing",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A\n\nExplanation: Vincrist"
+  },
+  {
+    "question_idx": 53,
+    "question": "A 54-year-old woman with a past medical history of mental retardation, hypertension, and diabetes pr",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A"
+  },
+  {
+    "question_idx": 54,
+    "question": "A 40-year-old man presents to the clinic with complaints of increased bilateral pain in his knees. T",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 55,
+    "question": "A 44-year-old man comes to the clinic because of a 6-month history of progressive fatigue. He has a ",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Inosine monophosphate de"
+  },
+  {
+    "question_idx": 56,
+    "question": "A 32-year-old man with HIV infection is brought to the emergency department by his roommate because ",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Positive latex agglutination"
+  },
+  {
+    "question_idx": 57,
+    "question": "Researchers are studying the inheritance pattern of mutations in the cystic fibrosis transmembrane r",
+    "predicted": "D",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 58,
+    "question": "A 45-year-old man presents to the emergency department with severe dyspnea, wheezing, and palpitatio",
+    "predicted": "D",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "D) Administer norepinephr"
+  },
+  {
+    "question_idx": 59,
+    "question": "A 47-year-old man presents with hemoptysis, diffuse muscle pain, and shortness of breath. He has had",
+    "predicted": "D",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "D. This patient's symptoms and lab values"
+  },
+  {
+    "question_idx": 60,
+    "question": "A 36-year-old man is brought to the emergency department 25 minutes after being involved in a high s",
+    "predicted": "C",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "C.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 61,
+    "question": "A 62-year-old man presents to the emergency department for evaluation of a low-grade fever, worsenin",
+    "predicted": "B",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "B.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 62,
+    "question": "A 26-year-old man comes to the physician for episodic fever, recurrent night sweats, and a 6-kg (14.",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A.\n\nExplanation: The given"
+  },
+  {
+    "question_idx": 63,
+    "question": "A 63-year-old man presents to the ambulatory medical clinic with symptoms of dysphagia and \u2018heartbur",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D\n\nExplanation:\n\nThe"
+  },
+  {
+    "question_idx": 64,
+    "question": "Twelve hours after undergoing an exploratory laparotomy for a perforated duodenal ulcer, a 36-year-o",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 65,
+    "question": "A 60-year-old man is referred to a dermatologist by his family physician for management of a rare ca",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Tumor arising from cutaneous"
+  },
+  {
+    "question_idx": 66,
+    "question": "A 51-year-old woman goes to respiratory function testing in order to evaluate her shortness of breat",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) 480 mL\n\n"
+  },
+  {
+    "question_idx": 67,
+    "question": "A 7-year-old girl is brought to the emergency department with a 10-day history of fever and sore thr",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) Intravenous dexameth"
+  },
+  {
+    "question_idx": 68,
+    "question": "A 62-year-old woman comes to the physician for a routine health maintenance examination. She feels w",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) None of the above. The patient'"
+  },
+  {
+    "question_idx": 69,
+    "question": "A 51-year-old woman was recently diagnosed with type II diabetes. Due to the cumulative effects of d",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B) Comprehensive foot exam every year"
+  },
+  {
+    "question_idx": 70,
+    "question": "A 49-year-old man comes to the physician because he has had multiple falls and multiple episodes of ",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C\n\nExplanation: The patient'"
+  },
+  {
+    "question_idx": 71,
+    "question": "A 38-year-old woman is being evaluated by her primary care physician for chronic, widespread pain th",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Low-dose prednisolone"
+  },
+  {
+    "question_idx": 72,
+    "question": "A 58-year-old woman presents to the emergency department because of worsening abdominal pain for the",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A. ERCP."
+  },
+  {
+    "question_idx": 73,
+    "question": "A 5-year-old boy is brought to his pediatrician due to sore throat and fever. He was in his usual st",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A (Geographic tongue, which is characterized by"
+  },
+  {
+    "question_idx": 74,
+    "question": "A 38-year-old woman undergoes a partial thyroidectomy for an enlarged thyroid gland compressing the ",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B) Recurrent laryngeal"
+  },
+  {
+    "question_idx": 75,
+    "question": "A 9-year-old boy is brought in by his mother because of bruising on his torso and limbs. The patient",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Acute lymphoblastic"
+  },
+  {
+    "question_idx": 76,
+    "question": "A 41-year-old man presents to the emergency department with a 6-hour history of muscle cramping, dec",
+    "predicted": "B",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "B) Diarrhea.\n\nEx"
+  },
+  {
+    "question_idx": 77,
+    "question": "A 27-year-old woman comes to the physician because of increasing shortness of breath and a non-produ",
+    "predicted": "D",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 78,
+    "question": "A 53-year-old female patient comes to the physician\u2019s office for her annual check-up visit. She has ",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B) Tumor stage.\n\nEx"
+  },
+  {
+    "question_idx": 79,
+    "question": "A 73-year-old woman is brought to the physician by her daughter for evaluation of impaired memory an",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Hyperphosphorylated t"
+  },
+  {
+    "question_idx": 80,
+    "question": "A 24-year-old man, who recently migrated from a developing country, presents to a physician because ",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A) Stop antiretroviral therapy and"
+  },
+  {
+    "question_idx": 81,
+    "question": "A medical researcher is studying the physiology of the immune system in order to better understand t",
+    "predicted": "D",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation: The protein"
+  },
+  {
+    "question_idx": 82,
+    "question": "A 54-year-old woman is brought to the physician by her brother for confusion and agitation. She is u",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Intravenous thiamine."
+  },
+  {
+    "question_idx": 83,
+    "question": "A 44-year-old woman presents to her primary care physician because she has been having fever, chest ",
+    "predicted": "D",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "D\n\nExplanation: The patient'"
+  },
+  {
+    "question_idx": 84,
+    "question": "An investigator is studying the effects of different gastrointestinal regulatory substances. A healt",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A\n\nExplanation: The provided information"
+  },
+  {
+    "question_idx": 85,
+    "question": "A 45-year-old mechanic presents to the emergency department complaining of acute-onset shortness of ",
+    "predicted": "D",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 86,
+    "question": "The first 24 hours after delivery, a 2888 g (6.37 lb) male newborn is not feeding well, has a high-p",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Oral morphine therapy.\n\n"
+  },
+  {
+    "question_idx": 87,
+    "question": "An otherwise healthy 49-year-old woman has a routine full blood count complete prior her elective ch",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Eosin-5-male"
+  },
+  {
+    "question_idx": 88,
+    "question": "A 32-year-old woman comes to the physician because of fatigue and joint pain for the past 4 months. ",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Decreased lymphocyte"
+  },
+  {
+    "question_idx": 89,
+    "question": "A 28-year-old female visits her physician for workup of a new onset diastolic murmur found on physic",
+    "predicted": "D",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation: The correct"
+  },
+  {
+    "question_idx": 90,
+    "question": "A 32-year-old primigravid woman at 16 weeks' gestation comes to the physician for a routine prenatal",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A. Partial molar pregnancy.\n\nEx"
+  },
+  {
+    "question_idx": 91,
+    "question": "A 42-year-old man is admitted to the intensive care unit with decreased consciousness and convulsion",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) Fumarate.\n\nEx"
+  },
+  {
+    "question_idx": 92,
+    "question": "A 63-year-old woman comes to the physician because of a 6-month history of fatigue and shortness of ",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 93,
+    "question": "A 25-year-old female presents to urgent care with complaints of one day of burning and pain with uri",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A. Inhibits cell wall synthesis."
+  },
+  {
+    "question_idx": 94,
+    "question": "A 56-year-old man comes to the emergency department because of nausea and shortness of breath that s",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C.\n\nExplanation: The E"
+  },
+  {
+    "question_idx": 95,
+    "question": "A pulmonologist is analyzing the vital signs of patients with chronic obstructive pulmonary disease ",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) 30 breaths per minute."
+  },
+  {
+    "question_idx": 96,
+    "question": "A 14-year-old boy presents to the emergency department with hand pain after falling from his skatebo",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 97,
+    "question": "A multi-specialty physician practice is meeting to determine which compensation scheme would best se",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C.\n\nNote: This question is for"
+  },
+  {
+    "question_idx": 98,
+    "question": "A researcher conducts multiple experiments to establish an infection and disease model for Clostridi",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A. Chlorine dioxide.\n"
+  },
+  {
+    "question_idx": 99,
+    "question": "Twelve hours after admission to the hospital because of a high-grade fever for 3 days, a 15-year-old",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A. Streptococcus pneumonia"
+  },
+  {
+    "question_idx": 100,
+    "question": "A 35-year-old woman presents to the office because she has felt a small painless mass in her neck wh",
+    "predicted": "C",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "C. Hashimoto thyroiditis is an"
+  },
+  {
+    "question_idx": 101,
+    "question": "A 25-year-old woman presents to her primary care provider for evaluation of a \"painful mass in my le",
+    "predicted": "C",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "C.\n\nExplanation:\n\n"
+  },
+  {
+    "question_idx": 102,
+    "question": "A laboratory primarily involved with studying cellular proofreading mechanisms is investigating the ",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A\n\nExplanation: The ribos"
+  },
+  {
+    "question_idx": 103,
+    "question": "A 17-year-old female is brought to the emergency room by her father because she has been experiencin",
+    "predicted": "D",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation: The given"
+  },
+  {
+    "question_idx": 104,
+    "question": "A 25-year-old male is hospitalized for acute agitation, photophobia, and dysphagia. His parents repo",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 105,
+    "question": "A 95-year-old woman who is a resident at a long term care facility, got up from her chair, tripped o",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) Metformin.\n\nExplan"
+  },
+  {
+    "question_idx": 106,
+    "question": "A 22-year-old man from Nepal presents to the emergency department complaining of swelling and pain i",
+    "predicted": "C",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "C.\n\nThis question describes a patient with"
+  },
+  {
+    "question_idx": 107,
+    "question": "A 49-year-old female with a history of alcoholism was found lying unconscious on a bench at a local ",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Anion gap metabolic acidos"
+  },
+  {
+    "question_idx": 108,
+    "question": "A 4-week-old female newborn is brought to the physician because of increasing yellowing of her eyes ",
+    "predicted": "C",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "C) Crigler\u2013Najjar syndrome"
+  },
+  {
+    "question_idx": 109,
+    "question": "A 26-year-old gravida 2 para 1 at 24 weeks gestation is admitted to the labor and delivery suite wit",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Goblet cells. Betameth"
+  },
+  {
+    "question_idx": 110,
+    "question": "Hypoxia-inducible factor 1-alpha (HIF-1a) is a transcription factor with increased activity under co",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D."
+  },
+  {
+    "question_idx": 111,
+    "question": "A 67-year-old woman with depression comes to the physician because of easy bruising and bleeding of ",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "\nA) Vitamin C (ascorbic"
+  },
+  {
+    "question_idx": 112,
+    "question": "A 61-year-old man presents to the clinic with complaints of excessive thirst, frequent urination, an",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A. There is a disruption of primary active"
+  },
+  {
+    "question_idx": 113,
+    "question": "A previously healthy 18-year-old army recruit is brought to a military treatment facility because of",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A) Rest and acetaminophen."
+  },
+  {
+    "question_idx": 114,
+    "question": "A 3-year-old girl is brought to the physician because of a 3-day history of fever, cough, purulent n",
+    "predicted": "D",
+    "correct": "A",
+    "is_correct": false,
+    "raw_response": "D.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 115,
+    "question": "A 31-year-old male comes to your office for his annual exam. He states that he received all of his r",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) Pneumococcal vaccine. This"
+  },
+  {
+    "question_idx": 116,
+    "question": "A 62-year-old patient has been hospitalized for a week due to a stroke. One week into the hospitaliz",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A\n\nExplanation: The patient'"
+  },
+  {
+    "question_idx": 117,
+    "question": "A 55-year-old man comes to the physician because of a 3-month history of a progressively growing mas",
+    "predicted": "B",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "B.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 118,
+    "question": "A 42-year-old woman comes to the clinic for a routine annual exam. She recently moved from New Jerse",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A"
+  },
+  {
+    "question_idx": 119,
+    "question": "An investigator is studying the pattern of glutamate release from presynaptic nerve terminals in hum",
+    "predicted": "C",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "C.\n\nExplanation: The correct"
+  },
+  {
+    "question_idx": 120,
+    "question": "A 51-year-old Caucasian woman presents to the physician for a routine health maintenance examination",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A. Alendronate.\n\nEx"
+  },
+  {
+    "question_idx": 121,
+    "question": "A 16-month-old boy is brought to the physician by his mother for a regular check-up. His mother says",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Impaired growth plate mineralization.\n"
+  },
+  {
+    "question_idx": 122,
+    "question": "A 74-year-old man has been treated for prostate cancer for the past 6 months. He is on an experiment",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Flutamide.\n\nEx"
+  },
+  {
+    "question_idx": 123,
+    "question": "A 68-year-old male comes to the physician for evaluation of right flank pain. He has a history of di",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A) Renal artery stenosis."
+  },
+  {
+    "question_idx": 124,
+    "question": "A 70-year-old man with a history of hypertension and atrial fibrillation comes to the physician for ",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 125,
+    "question": "A previously healthy 52-year-old woman is brought to the emergency department after sustaining burns",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 126,
+    "question": "A 26-year-old man presents to his physician with a history of diarrhea and vomiting for the past 24 ",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A\n\nExplanation: The patient'"
+  },
+  {
+    "question_idx": 127,
+    "question": "A 38-year-old woman comes to the physician because of difficulty falling asleep for the past 2 month",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) Amitryptiline. This medication"
+  },
+  {
+    "question_idx": 128,
+    "question": "A 37-year-old primigravid woman at 12 weeks' gestation comes to the emergency department because of ",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Dilation and curettage.\n"
+  },
+  {
+    "question_idx": 129,
+    "question": "A 52-year-old man presents to the physician because of ongoing shortness of breath, which is more pr",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Parasitic infection.\n\n"
+  },
+  {
+    "question_idx": 130,
+    "question": "A 7-year-old boy is brought to your office with complaints of wheezing and dyspnea. Laboratory work ",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A.\n\nExplanation: The patient"
+  },
+  {
+    "question_idx": 131,
+    "question": "A 58-year-old male is hospitalized after sustaining multiple fractures in a severe automobile accide",
+    "predicted": "C",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "C) Large pulmonary embolus."
+  },
+  {
+    "question_idx": 132,
+    "question": "A 62-year-old man presents with bright red blood in his stool which occurred 2 times this week. He d",
+    "predicted": "A",
+    "correct": "B",
+    "is_correct": false,
+    "raw_response": "A) This patient has peptic ulcer disease"
+  },
+  {
+    "question_idx": 133,
+    "question": "A 3-day-old boy is admitted to the neonatal intensive care unit for seizures. He was born to a 33-ye",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B. Cranial ultrasonography."
+  },
+  {
+    "question_idx": 134,
+    "question": "A 67-year-old man with transitional cell carcinoma of the bladder comes to the physician because of ",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A) Inhibition of proteasome."
+  },
+  {
+    "question_idx": 135,
+    "question": "A 39-year-old woman, with a history of thyroidectomy and primary hyperparathyroidism presents for su",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A) Atenolol.\n\nEx"
+  },
+  {
+    "question_idx": 136,
+    "question": "A 58-year-old man is brought to the emergency department because of sudden-onset right-sided body nu",
+    "predicted": "B",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "B) Lateral medulla.\n\n"
+  },
+  {
+    "question_idx": 137,
+    "question": "A 65-year-old man presents with a 6-month history of repeated falls, postural dizziness, progressive",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Vitamin B12 deficiency."
+  },
+  {
+    "question_idx": 138,
+    "question": "A 67-year-old male is seen by neurology after he was noticed to be speaking strangely by his family.",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A\n\nExplanation: The patient'"
+  },
+  {
+    "question_idx": 139,
+    "question": "Three days after admission to the intensive care unit for septic shock and bacteremia from a urinary",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D.\n\nExplanation:\nThe"
+  },
+  {
+    "question_idx": 140,
+    "question": "A 63-year-old man presents to the physician with a complaint of back pain for the past 2 months. The",
+    "predicted": "B",
+    "correct": "B",
+    "is_correct": true,
+    "raw_response": "B) Spinal metastasis.\n\n"
+  },
+  {
+    "question_idx": 141,
+    "question": "A 16-year-old boy is brought to the emergency department by ambulance from a soccer game. During the",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D) Runs posteriorly from the medial"
+  },
+  {
+    "question_idx": 142,
+    "question": "A 14-year-old boy is brought to the physician for evaluation of his sense of smell. Two days ago, hi",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Impaired migration of GnRH"
+  },
+  {
+    "question_idx": 143,
+    "question": "A 56-year-old man comes to the clinic for a check-up. He presents with a 1-year history of worsening",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A) Asbestosis.\n\nExplan"
+  },
+  {
+    "question_idx": 144,
+    "question": "A 16-year-old boy presents to the emergency department with shortness of breath after prolonged expo",
+    "predicted": "A",
+    "correct": "C",
+    "is_correct": false,
+    "raw_response": "A.\n\nExplanation: Ipr"
+  },
+  {
+    "question_idx": 145,
+    "question": "A 23-year-old man is brought to the emergency department 25 minutes after being involved in a high-s",
+    "predicted": "A",
+    "correct": "D",
+    "is_correct": false,
+    "raw_response": "A) CT scan of the chest.\n\n"
+  },
+  {
+    "question_idx": 146,
+    "question": "A 36-year-old woman, gravida 3, para 2, at 42 weeks' gestation comes to the physician for induction ",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Meconium aspiration.\n\n"
+  },
+  {
+    "question_idx": 147,
+    "question": "A 25-year-old woman presents to her physician with a four month history of fatigue and weakness. The",
+    "predicted": "A",
+    "correct": "A",
+    "is_correct": true,
+    "raw_response": "A"
+  },
+  {
+    "question_idx": 148,
+    "question": "A 15-year-old boy is brought to the physician by his mother. His mother reports multiple instances o",
+    "predicted": "C",
+    "correct": "C",
+    "is_correct": true,
+    "raw_response": "C) Reassure the mother.\n\n"
+  },
+  {
+    "question_idx": 149,
+    "question": "A routine newborn screening test for phenylketonuria in a male neonate shows a serum phenylalanine c",
+    "predicted": "D",
+    "correct": "D",
+    "is_correct": true,
+    "raw_response": "D.\n\nExplanation: The patient"
+  }
+]
